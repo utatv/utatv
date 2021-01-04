@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://bit.ly/seEPG3" x-tvg-url="http://bit.ly/kodiEPG"
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://www.dropbox.com/s/b1n19w6q9mup8cz/uta-tokyo-ghoul-featured.jpg?raw=1" tvg-chno="1" channel-id="1" group-title="UTATV",UTATV
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://www.dropbox.com/s/b1n19w6q9mup8cz/uta-tokyo-ghoul-featured.jpg" tvg-chno="1" channel-id="1" group-title="UTATV",UTATV
 https:
 
 
