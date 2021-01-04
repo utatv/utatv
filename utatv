@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://bit.ly/seEPG3" x-tvg-url="http://bit.ly/kodiEPG"
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="UTATV",UTATV
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://static3.cbrimages.com/wordpress/wp-content/uploads/2020/04/uta-tokyo-ghoul-featured.jpg" tvg-chno="1" channel-id="1" group-title="UTATV",UTATV
 https:
 
 
