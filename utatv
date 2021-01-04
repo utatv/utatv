@@ -1,10 +1,9 @@
 #EXTM3U url-tvg="http://bit.ly/seEPG3" x-tvg-url="http://bit.ly/kodiEPG"
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://www.dropbox.com/s/b1n19w6q9mup8cz/uta-tokyo-ghoul-featured.jpg?dl=0" tvg-chno="1" channel-id="1" group-title="UTATV",UTATV
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://user-images.githubusercontent.com/76941609/103534850-a5fb4400-4eca-11eb-9d84-02ace1a6be7a.jpg" tvg-chno="1" channel-id="1" group-title="UTATV",UTATV
 https:
 
 ### MY-ASTROK ###
-
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="MY-ASTROK",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
