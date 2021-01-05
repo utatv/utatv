@@ -67,6 +67,15 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?fbclid=IwA
 #EXTINF:-1 tvg-id="Oasis.my" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" tvg-chno="47" channel-id="47" group-title="ASTROK",Astro Oasis
 http://vp2p2s.my6868.cc/20471/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
+#EXTINF:-1 xmltv-id="Astro AEC HD" tvg-id="Astro AEC HD" group-title="MY" tvg-logo="https://logodix.com/logo/2120508.png", ASTRO AEC
+http://vp2p2s.my6868.cc/20418/KakLong.m3u8
+
+#EXTINF:-1 xmltv-id="ASTRO AOD" tvg-id="ASTRO AOD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/Astro_AOD.jpg", ASTRO AOD
+http://vp2p2s.my6868.cc/20419/KakLong.m3u8
+
+#EXTINF:-1 xmltv-id="BOO HD" tvg-id="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", ASTRO BOO
+http://vp2p2s.my6868.cc/20420/KakLong.m3u8
+
 #EXTINF:-1 tvg-id="AEC.my" tvg-name="Astro AEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" tvg-chno="17" channel-id="17" tvg-group="MY/SG" group-title="ASTROK",Astro AEC
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 
@@ -105,9 +114,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sensasi.png" group-title="ASTROK",SENSASI
 http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
-
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -280,7 +286,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/egg.png" group-title="SPORT",EGG SPORTS
 http://210.210.155.66/h/h22/01.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -474,7 +479,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428164_ico.png" group-title="DOCUMENTARY",HGTV
@@ -504,11 +508,21 @@ https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mp
 #EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="KOREA",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="BBL.UK" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="KOREA",TVN
 http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
+
+#EXTINF:-1 xmltv-id="ONE HD" tvg-id="ONE HD" group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", ONE
+http://vp2p2s.my6868.cc/20475/KakLong.m3u8
+
+#EXTINF:-1,  tvg-logo="https://dwglogo.com/wp-content/uploads/2019/02/1600px_IQiyi_logo.png",  group-title="KOREA", IQIYI
+http://vp2p2s.my6868.cc/20469/KakLong.m3u8
+
+
+
+
+
 
 
 
@@ -702,9 +716,44 @@ https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 #EXTINF:-1 tvg-id=".ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zing.png" group-title="MOVIE",ZING
 https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox.jpg" group-title="MOVIE", FOX
+https://delivery.macan.tv/stream/id_fox/playlist.m3u8?token=rvsx2&v=20200807 
 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_crime.png" group-title="MOVIE", FOX Crime
+https://delivery.macan.tv/stream/id_foxcrime/playlist.m3u8?token=rvsx2&v=20200807 
 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_life.png" group-title="MOVIE", FOX Life
+https://delivery.macan.tv/stream/id_foxlife/playlist.m3u8?token=rvsx2&v=20200807 
 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_movies_premium.png" group-title="MOVIE", FOX Movies Premium
+https://delivery.macan.tv/stream/id_foxmoviespremium/playlist.m3u8?token=rvsx2&v=20200807 
+
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_action_movies.png" group-title="MOVIE", FOX Action Movies
+https://delivery.macan.tv/stream/id_foxactionmovies/playlist.m3u8?token=rvsx2&v=20200807 
+
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png" group-title="MOVIE", FOX Family Movie
+https://delivery.macan.tv/stream/foxfamilymovies_idn/playlist.m3u8?token=rvsx2&v=20200807 
+
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo.png" group-title="MOVIE", HBO
+https://delivery.macan.tv/stream/hbo/playlist.m3u8?token=rvsx2&v=20200807 
+
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_family.png" group-title="MOVIE", HBO Family
+https://delivery.macan.tv/stream/hbo_family/playlist.m3u8?token=rvsx2&v=20200807 
+
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_hits.png" group-title="MOVIE", HBO Hits
+https://delivery.macan.tv/stream/hbo_hits/playlist.m3u8?token=rvsx2&v=20200807 
+
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_signature.png" group-title="MOVIE", HBO Signature
+https://delivery.macan.tv/stream/hbo_signature/playlist.m3u8?token=rvsx2&v=20200807 
+
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/red_hbo.png" group-title="MOVIE", RED by HBO
+https://delivery.macan.tv/stream/redhbo/playlist.m3u8?token=rvsx2&v=20200807 
+
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/cinemaxa.png" group-title="MOVIE", Cinemax by HBO
+https://delivery.macan.tv/stream/cinemax/playlist.m3u8?token=rvsx2&v=20200807
+
+#EXTINF:-1 xmltv-id="ASTRO AOD" tvg-id="ASTRO AOD" group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/Astro_AOD.jpg", ASTRO AOD
+http://vp2p2s.my6868.cc/20419/KakLong.m3u8
 
 
 ### RADIO ###
