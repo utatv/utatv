@@ -67,13 +67,11 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?fbclid=IwA
 #EXTINF:-1 tvg-id="Oasis.my" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" tvg-chno="47" channel-id="47" group-title="ASTROK",Astro Oasis
 http://vp2p2s.my6868.cc/20471/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
-#EXTINF:-1 xmltv-id="Astro AEC HD" tvg-id="Astro AEC HD" group-title="MY" tvg-logo="https://logodix.com/logo/2120508.png", ASTRO AEC
-http://vp2p2s.my6868.cc/20418/KakLong.m3u8
 
-#EXTINF:-1 xmltv-id="ASTRO AOD" tvg-id="ASTRO AOD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/Astro_AOD.jpg", ASTRO AOD
+#EXTINF:-1 xmltv-id="ASTRO AOD" tvg-id="ASTRO AOD" group-title="ASTROK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/Astro_AOD.jpg", ASTRO AOD
 http://vp2p2s.my6868.cc/20419/KakLong.m3u8
 
-#EXTINF:-1 xmltv-id="BOO HD" tvg-id="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", ASTRO BOO
+#EXTINF:-1 xmltv-id="BOO HD" tvg-id="BOO HD" group-title="ASTROK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", ASTRO BOO
 http://vp2p2s.my6868.cc/20420/KakLong.m3u8
 
 #EXTINF:-1 tvg-id="AEC.my" tvg-name="Astro AEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" tvg-chno="17" channel-id="17" tvg-group="MY/SG" group-title="ASTROK",Astro AEC
