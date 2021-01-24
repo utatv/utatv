@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://bit.ly/seEPG3" x-tvg-url="http://bit.ly/kodiEPG"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Sinar FM" tvg-logo="https://user-images.githubusercontent.com/76941609/103535223-579a7500-4ecb-11eb-8456-5ceb4e6caa9c.png" tvg-chno="47" channel-id="47" radio="true" group-title="UTATV",UTATV
+#EXTINF:-1 tvg-id="" tvg-name="Sinar FM" tvg-logo="https://user-images.githubusercontent.com/76941609/103535223-579a7500-4ecb-11eb-8456-5ceb4e6caa9c.png" tvg-chno="47" channel-id="47" radio="true" group-title="UTATV",UtaTV
 http://as
 
 ### ASTROK ###
@@ -12,7 +12,7 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="ASTROK",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="ASTROK",TV3
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="ASTROK",TV3 HD
 https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3
@@ -256,7 +256,13 @@ http://freeview.mywire.org:9090/streams/cbeebies.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="KIDS",ANIMAX
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+https://tvonlineindonesia.xyz:443/m3u8/usee-animax-People+62.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",Ani
+http://109.111.191.108/239.211.211.98/stream.m3u8
+
+#EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="Anixe HD" tvg-language="German" tvg-logo="https://bit.ly/36NAZA1" tvg-country="DE" tvg-url="" group-title="",Anixe HD (720p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -803,6 +809,13 @@ https://delivery.macan.tv/stream/cinemax/playlist.m3u8?token=rvsx2&v=20200807
 
 #EXTINF:-1 xmltv-id="ASTRO AOD" tvg-id="ASTRO AOD" group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/Astro_AOD.jpg", ASTRO AOD
 http://vp2p2s.my6868.cc/20419/KakLong.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",Bollywood FHD
+http://89.106.234.5:80/bollywood_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",BollyWood HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 
 
 ### RADIO ###
