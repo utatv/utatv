@@ -13,28 +13,16 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="ASTROK",TV3 HD
-https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8|Referer=https://www.dailymotion.com
+https://fvtv2.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="ASTROK",NTV7
-https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="Malaysia",NTV 7
-https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
+https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="TV8.my" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" tvg-chno="5" channel-id="5" group-title="ASTROK",8TV
-https://fvtv.mywire.org/streams/dailymotion/ch_8tv.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia",8TV
-https://fvtv.mywire.org/streams/dailymotion/ch_8tv.m3u8
+https://fvtv2.mywire.org/streams/dailymotion/ch_8tv.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" tvg-chno="6" channel-id="6" group-title="ASTROK",TV9
-https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Malaysia",TV9
-https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8
+https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="Prima.my" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" tvg-chno="12" channel-id="12" tvg-group="MY/SG" group-title="ASTROK",Astro Prima
 http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
