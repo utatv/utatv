@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-ID="" group-title="Malaysia"tvg-logo="https://imgur.com/VDsZLis",IPTV4U-FREE
+http:
 
 ============== Malaysia / Astro =================
 
@@ -62,11 +63,6 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="TVikim" group-title="Malaysia"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeunk8zsXxPiqk_9Ck04QfqOuPfnWWlKxifg&usqp=CAU",Tv Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
-
-
-
-
-============== Malaysia / Astro =================
 
 #EXTINF:-1 tvg-id="hello" group-title="Astro"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRExspg6D0bF8X38Vc7NcGyHUhkbLsj3Psw&usqp=CAU",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8?id=eroz_brebes.m3u8
