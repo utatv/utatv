@@ -2,26 +2,15 @@
 #EXTINF:-1 tvg-ID="" group-title="Malaysia"tvg-logo="https://imgur.com/VDsZLis",IPTV4U-FREE
 http://
 
+====MALAYSIA===
 
-
-TESTING
-
-#EXTINF:-1 tvg-ID="" group-title="Malaysia"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",TV1
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-
-#EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png", TV1 (Backup)
+#EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png", TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="TV2.MY" group-title="Malaysia"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",TV2
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-
-#EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png", TV2 (Backup)
+#EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png", TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="TV3.MY" group-title="Malaysia"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png",TV3
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-
-#EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png", TV3 (Backup)
+#EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png", TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="astroawani" group-title="Malaysia"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9-aujlXuqweD6TXdGkYuFfp9PeSneLNLUUQ&usqp=CAU", Astro Awani
@@ -30,22 +19,13 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8?id=eroz_brebes
 #EXTINF:-1 group-title="Malaysia",Awani (Backup)
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="TV7.MY" group-title="Malaysia"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_300.png",NTV7
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-
-#EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png" , NTV7 (Backup)
+#EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png" , NTV7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="8TV.MY" group-title="Malaysia"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png",8TV
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-
-#EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png" , 8TV (Backup)
+#EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png" , 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="TV9.MY" group-title="Malaysia"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_300.png",TV9
-http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
-
-#EXTINF:0, group-title="Malaysia" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png", TV9 (Backup)
+#EXTINF:0, group-title="Malaysia" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png", TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 #EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/e625d11f0db6e2538459e.png" , TV Sarawak
@@ -66,62 +46,62 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-ID="TVikim" group-title="Malaysia"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeunk8zsXxPiqk_9Ck04QfqOuPfnWWlKxifg&usqp=CAU",Tv Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hello" group-title="Astro"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRExspg6D0bF8X38Vc7NcGyHUhkbLsj3Psw&usqp=CAU",Hello
+#EXTINF:-1 tvg-id="hello" group-title="Malaysia"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRExspg6D0bF8X38Vc7NcGyHUhkbLsj3Psw&usqp=CAU",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8?id=eroz_brebes.m3u8
 
-#EXTINF:-1 group-title="Astro"  tvg-logo="https://i.postimg.cc/tgHPJhrw/Astro-Arena.jpg", ASTRO Arena HD
+#EXTINF:-1 group-title="Malaysia"  tvg-logo="https://i.postimg.cc/tgHPJhrw/Astro-Arena.jpg", ASTRO Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
-;#EXTINF:-1 group-title="Astro" tvg-logo="https://i.postimg.cc/tgHPJhrw/Astro-Arena.jpg",Arena
+;#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/tgHPJhrw/Astro-Arena.jpg",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro"  tvg-logo="https://i.postimg.cc/tgHPJhrw/Astro-Arena.jpg", ASTRO Arena HD 
+#EXTINF:-1 group-title="Malaysia"  tvg-logo="https://i.postimg.cc/tgHPJhrw/Astro-Arena.jpg", ASTRO Arena HD 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
 
 ;#EXTINF:0, group-title="Malaysia" tvg-logo="https://telegra.ph/file/96c825ee6f9d2f3271195.jpg", Sukan RTM
 http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria CH104
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria CH104
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" , Astro Prima CH105
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" , Astro Prima CH105
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" , Astro Oasis CH106
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" , Astro Oasis CH106
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" , Astro Warna CH107
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" , Astro Warna CH107
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" , Astro Citra CH108
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" , Astro Citra CH108
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" , Naura HD CH109
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" , Naura HD CH109
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
-#EXTINF:-1  group-title="" tvg-logo="https://static02.astro.com.my/astro/media/astromain/ceria/home/channellogo-astroceria2.png", Astro Ceria
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://static02.astro.com.my/astro/media/astromain/ceria/home/channellogo-astroceria2.png", Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png", Suria CH110
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png", Suria CH110
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 
-#EXTINF:-1tvg-id="" tvg-name="" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro BOO 
+#EXTINF:-1tvg-id="" tvg-name="" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Malaysia",Astro BOO 
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="https://marketingmagazine.com.my/wp-content/uploads/2016/11/Boo_From_Astrothumbnail.jpg", Astro BOO
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://marketingmagazine.com.my/wp-content/uploads/2016/11/Boo_From_Astrothumbnail.jpg", Astro BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro",One
+#EXTINF:-1 group-title="Malaysia",One
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png", Astro Xuang Xing
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png", Astro Xuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
-#EXTINF:-1  group-title="" tvg-logo="https://www.nicepng.com/png/detail/306-3060926_astroxiaotaiyang-astro-xiao-tai-yang.png", Astro Xiao Tai Yang
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://www.nicepng.com/png/detail/306-3060926_astroxiaotaiyang-astro-xiao-tai-yang.png", Astro Xiao Tai Yang
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
-#EXTINF:0, group-title="Astro" tvg-name="Colors Hindi HD" tvg-logo="https://telegra.ph/file/789ea2e21fef48a488fe4.png", Colors Hindi HD CH116
+#EXTINF:0, group-title="Malaysia" tvg-name="Colors Hindi HD" tvg-logo="https://telegra.ph/file/789ea2e21fef48a488fe4.png", Colors Hindi HD CH116
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
 
-#EXTINF:0 group-title="Astro" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png", Go Shop GAAYA CH120
+#EXTINF:0 group-title="Malaysia" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png", Go Shop GAAYA CH120
 http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
